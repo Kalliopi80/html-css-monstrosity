@@ -1,0 +1,19 @@
+body {
+ background-color: yellow; 
+  margin: 480px;
+    padding: 50px;
+
+h4 {
+  color: red;
+}
+ p {
+   font-family: sans-serif;
+}
+div {
+    background-color: grey;
+    width: 300px;
+    border: 25px lightblue;
+    padding: 50px;
+    margin: 50px;
+}
+  

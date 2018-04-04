@@ -1,0 +1,54 @@
+<html>
+   <head>
+        <meta charset="utf-8">
+       <title>RESUME</title>
+  <body>
+   <h1>RESUME<h1/>
+   <h2>KALLIOPI POULAKOU</h2>
+      <img src="<a href="http://tinypic.com?ref=mlgzee" target="_blank"><img src="http://i68.tinypic.com/mlgzee.png" border="0" alt="Image and video hosting by TinyPic alt="black and white resume photo of Kalliopi Poulakou">
+  <br>
+     <h3>Personal Information</h3>
+  <ul>
+    <div><li>Name</li></div>
+   Kalliopi Poulakou
+    <li>Address</li>
+    Parasiou 6, Athens
+    <li>E-mail</li>
+    Kalliopi.Poulakou@gmail.com<br>
+     </ul>
+     <h3>About me</h3>
+   <div> <p>I am a highly motivated individual, with exceptional work ethics, drive and attention to detail. 
+My goal is to learn new skills every day and further my knowledge in whatever subject interests me.<br>My inquisitive and kind nature, love for research, ability to work efficiently as part of a team going towards a common goal and ability to meet deadlines are amongst my greatest assets.</p></div>
+   <h3>Education</h3>
+  <ul>
+  <div><li><em>2nd Lyceum</em>, Athens, Greece</li>
+    <li><strong>'ΜETAFRASI'</strong><em> school for translators</em>, Athens, Greece.</li>
+    <li><em>Proficiency Certificate</em> in <strong>English</strong></li>
+    <li><em>Certificat</em> in <strong>French</strong>.</li>
+    </ul></div>
+ <h3>Work Experience</h3>
+  <ul>
+    <div><li><strong>Manager</strong> at <em>City Massage</em>, Athens, Greece.</li>
+    <li><strong>Promoter</strong> for <em>Grace Promotions</em>, London, UK.</li>
+    <li><strong>Assistant manager</strong> at <em>Kettner's</em> Champagne bar, Soho, London, UK.</li>
+      </ul></div>
+  <h4>Helpful Resources</h4>
+     <ul>
+       <li><a href="https://github.com/">GitHub</a>
+       </li>
+       <li><a href="https://trello.com/">Trello</a>
+       </li>
+       <li>
+        <a href="https://www.khanacademy.org/">KhanAcademy</a>
+     </ul>
+         <h4>Learning Strategies</h4>
+      <ul>
+        <li><a href="https://www.freecodecamp.org/">FreecodeCamp</a>
+       </li>
+        <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css/">Intro to HTML/CSS</a>
+       </li>
+        <li><a href="https://cssreference.io/">CSSReference</a>
+        </li>
+        </body>
+     
+ </html>
